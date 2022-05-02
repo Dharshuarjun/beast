@@ -1,0 +1,42 @@
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background-color:rgb(79, 30, 7);
+}
+
+.beast {
+    height: 300px;
+    width: 200px;
+    object-fit: contain;
+    border-radius: 20px;
+    color:white;
+}
+
+.mi{
+    text-align:center;
+    font-family: serif;
+    letter-spacing: normal;
+    color:white;
+}
+h5{
+    font-weight: normal;
+    line-height:1;
+    text-align: justify;
+    vertical-align: middle;
+}
+.Hi{
+    line-height:  16px;;
+    font-weight:100px;
+    font-family: Arial, Helvetica, sans-serif;
+color:white;
+}
+p{
+    line-gap-override:override 1px;
+}
+.normal{
+    font-style: normal;
+    color:brown;
+    text-align: center;
+
+}
