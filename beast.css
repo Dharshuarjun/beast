@@ -3,7 +3,10 @@ body {
     place-content: center;
     min-height: 100vh;
     background-color:rgb(79, 30, 7);
+    background-image: background-image: linear-gradient(to right top, #010a16, #332646, #7f335d, #c54b4e, #e38420);
+
 }
+
 
 .beast {
     height: 300px;
